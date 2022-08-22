@@ -1,6 +1,6 @@
-* Python Basics
+# Python Basics
 
-This is an introductory lesson on python. It covers:
+This is an introductory lesson on python as covered in the Alx-SE program. It covers:
 
 *  How to use the Python interpreter
 *  How to print text and variables using "print"
